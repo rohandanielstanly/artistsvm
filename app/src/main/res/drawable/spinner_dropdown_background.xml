@@ -1,0 +1,4 @@
+<!-- spinner_dropdown_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#ffffff"/> <!-- Set background color to transparent -->
+</shape>

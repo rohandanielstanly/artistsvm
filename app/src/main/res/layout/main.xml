@@ -1,0 +1,44 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linear115"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:padding="8dp"
+		android:background="@drawable/main_bg"
+		android:orientation="vertical">
+		<LinearLayout
+			android:id="@+id/linear116"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:padding="8dp"
+			android:gravity="center_horizontal|center_vertical"
+			android:orientation="vertical">
+			<Button
+				android:id="@+id/button1"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:layout_margin="16dp"
+				android:text="New artist add"
+				android:fontFamily="@font/spotify"
+				android:textSize="12sp"
+				android:textColor="#ffffff" />
+			<Button
+				android:id="@+id/button2"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:layout_margin="16dp"
+				android:fontFamily="@font/spotify"
+				android:text="Upload Song"
+				android:textSize="12sp"
+				android:textColor="#ffffff" />
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

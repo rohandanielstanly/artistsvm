@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1099302317546",
+    "project_id": "artists-vachanam-music",
+    "storage_bucket": "artists-vachanam-music.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099302317546:android:a60c587dc6ca0e7655d693",
+        "android_client_info": {
+          "package_name": "com.vachanammusic.artists"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbLynzgZHNZYoijImqgJ68t1Xk_Q_2Qy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
